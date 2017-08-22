@@ -1,3 +1,5 @@
+test/com/fpms/persistence/test/common/ServiceLocator.java
+
 # Compiled class file
 *.class
 
